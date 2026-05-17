@@ -10,4 +10,13 @@ Digital Analytics &amp; Data Science Enthusiast passionate about Product Analyti
 * Exploring Data Science, Machine Learning, and predictive analytics to solve real-world business problems
 * Currently based in London, United Kingdom
 
+## I specialize in:
+
+Product Analytics
+Digital & Marketing Analytics
+Funnel & Cohort Analysis
+Attribution Modelling
+SQL & Python Analytics
+Machine Learning & Predictive Analytics
+Dashboard Automation & Data Visualization
 
