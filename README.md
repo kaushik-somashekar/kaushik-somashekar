@@ -12,11 +12,11 @@ Digital Analytics &amp; Data Science Enthusiast passionate about Product Analyti
 
 ## I specialize in
 
-*Product Analytics
-*Digital & Marketing Analytics
-*Funnel & Cohort Analysis
-*Attribution Modelling
-*SQL & Python Analytics
-*Machine Learning & Predictive Analytics
-*Dashboard Automation & Data Visualization
+* Product Analytics
+*  & Marketing Analytics
+* Funnel & Cohort Analysis
+* Attribution Modelling
+* SQL & Python Analytics
+* Machine Learning & Predictive Analytics
+* Dashboard Automation & Data Visualization
 
