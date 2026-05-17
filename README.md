@@ -20,3 +20,19 @@ Digital Analytics &amp; Data Science Enthusiast passionate about Product Analyti
 * Machine Learning & Predictive Analytics
 * Dashboard Automation & Data Visualization
 
+## Tech Stack
+
+### Analytics & Tracking
+GA4 • Adobe Analytics • Adobe CJA • GTM • Tealium • Firebase
+
+### Data & Cloud
+SQL • Snowflake • BigQuery • PostgreSQL • MySQL • dbt • Fivetran
+
+### Data Science & Programming
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Machine Learning
+
+### Visualization
+Tableau • Power BI • Looker Studio
+
+### Marketing & Product Analytics
+SEO • Attribution • Funnel Analysis • CRO • Experimentation • Cohort Analysis
