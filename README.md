@@ -36,3 +36,10 @@ Tableau • Power BI • Looker Studio
 
 ### Marketing & Product Analytics
 SEO • Attribution • Funnel Analysis • CRO • Experimentation • Cohort Analysis
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/kaushik-somashekar/
+* Email: [kaushiksomashekar@gmail.com](mailto:kaushiksomashekar@gmail.com)
+* Location: London, UK
+
