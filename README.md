@@ -3,10 +3,11 @@ Digital Analytics &amp; Data Science Enthusiast passionate about Product Analyti
 
 ## About Me
 
-* 5+ years of experience in Digital, Product, Marketing, and Data Analytics
-* Worked with Sainsbury’s UK, BYJU’S, UWE Bristol, and Icon Hotels
-* Strong in SQL, Python, GA4, Adobe Analytics, Snowflake, BigQuery, Tableau, and Power BI
-* Experienced in attribution modelling, experimentation, funnel optimization, and customer journey analytics
-* Interested in Data Science, Machine Learning, Predictive Analytics, and AI-driven insights
-* Based in London, United Kingdom
+* Digital, Product, and Marketing Analyst with 5+ years of experience delivering data-driven business insights
+* Experienced across retail, education, hospitality, and AI-focused industries
+* Skilled in SQL, Python, GA4, Adobe Analytics, Snowflake, BigQuery, Tableau, and Power BI
+* Passionate about customer behaviour analysis, funnel optimization, attribution modelling, and experimentation
+* Exploring Data Science, Machine Learning, and predictive analytics to solve real-world business problems
+* Currently based in London, United Kingdom
+
 
