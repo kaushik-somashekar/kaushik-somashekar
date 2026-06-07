@@ -40,6 +40,7 @@ SEO • Attribution • Funnel Analysis • CRO • Experimentation • Cohort A
 ## Connect With Me
 
 * LinkedIn: linkedin.com/in/kaushik-somashekar/
+* Portfolio : https://kaushik-somashekar.github.io/
 * Email: [kaushiksomashekar@gmail.com](mailto:kaushiksomashekar@gmail.com)
 * Location: London, UK
 
